@@ -1,0 +1,13 @@
+<table style="width:100%;height:50%;" cellpadding="2" cellspacing="0" border="0" class="ke-zeroborder" bordercolor="#000000">
+	<tbody>
+		<tr>
+			<td width=236>
+				<img src="http://13.124.88.2/upload/image/20210225/20210225094133_88658.png" alt="left" /><br />
+			</td>
+			<td>
+				경북소프트웨어고등학교 프로그래밍 교육용 사이트입니다<br />
+대회 메뉴에서 해당 학반의 대회명을 클릭하고 문제를 풀어주세요.
+			</td>
+		</tr>
+	</tbody>
+</table>
