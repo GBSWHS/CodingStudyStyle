@@ -6,7 +6,7 @@
 ?>
 
 <!-- 新 Bootstrap 核心 CSS 文件 -->
-<link rel="stylesheet" href="<?php echo $OJ_CDN_URL.$path_fix."template/$OJ_TEMPLATE/"?>bootstrap.min.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 
 <?php if(!isset($OJ_FLAT)||!$OJ_FLAT){?>
 <!-- 可选的Bootstrap主题文件（一般不用引入） -->
